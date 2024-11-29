@@ -1,6 +1,6 @@
 {
   "name": "Le vautour fauve, appelé également le griffon, est une espèce de vautour de la famille des accipitridés. En France, il vit principalement dans les Pyrénées et les Causses.",
-  "void": false,
+  "void": true,
   "forcing": true,
   "versionI": "1.0.0",
   "versionA": "1.0.0",
